@@ -1,1 +1,1 @@
-# Systematic Evaluation and Explanation of Ordinal Prediction Approaches in Cancer Research: Application to Tumor Malignancy Prediction
+# Systematic Evaluation of Approaches for Ordinal Prediction Tasks in Cancer Research: Application to Tumor Malignancy Prediction
