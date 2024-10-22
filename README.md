@@ -1,1 +1,1 @@
-# Systematic Evaluation and Explanation of Classification & Regression Approaches in Cancer Research: Application to Tumor Malignancy Prediction
+# Systematic Evaluation and Explanation of Ordinal Prediction Approaches in Cancer Research: Application to Tumor Malignancy Prediction
